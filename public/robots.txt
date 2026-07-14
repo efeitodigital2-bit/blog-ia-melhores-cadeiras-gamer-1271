@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog-ia-melhores-cadeiras-gamer-1271-novo7.vercel.app/sitemap-index.xml
