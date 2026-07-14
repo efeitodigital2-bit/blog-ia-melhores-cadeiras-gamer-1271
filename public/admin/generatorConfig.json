@@ -1,0 +1,31 @@
+{
+  "theme": "melhores cadeiras gamer",
+  "categories": [
+    {
+      "value": "melhores-cadeiras-gamer",
+      "label": "Melhores cadeiras gamer"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Melhores cadeiras gamer"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-melhores-cadeiras-gamer-1.jpg",
+      "label": "Melhores cadeiras gamer Premium"
+    },
+    {
+      "value": "/recommended-melhores-cadeiras-gamer-2.jpg",
+      "label": "Melhores cadeiras gamer Custo-Benefício"
+    },
+    {
+      "value": "/recommended-melhores-cadeiras-gamer-3.jpg",
+      "label": "Melhores Melhores cadeiras gamer"
+    }
+  ]
+}
